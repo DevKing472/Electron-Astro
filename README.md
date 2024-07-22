@@ -10,7 +10,7 @@ Astro is a minimialist electronjs template with a custom made titlebar, settings
 ## Install
 Cloe the repository and install dependencies:
 ```bash
-git clone https://github.com/gokiimax/Astro.git
+git clone https://github.com/DevKing472/Electron-Astro.git
 cd Astro
 npm install
 ```
